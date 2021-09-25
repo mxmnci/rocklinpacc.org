@@ -4,7 +4,7 @@
 src="https://user-images.githubusercontent.com/38739342/131266389-752dde25-3fcf-4e92-ad1c-bc0a64e81cc5.png" width="400" /></p>
 
 <p align="center">
-  <b>The Rocklin Performing Arts & Cultural Center</b> is a project proposed by the Rocklin city council to provide a relaxing venue for the citizens of Rocklin to enjoy all of their cultural interests. Not just plays and musicals, but also art exhibits, informative presentations, and even culinary arts. We envision a multi-purpose facility for everyone, young and old, that reflects all of Placer County.
+  <b>The <b>Rocklin Performing Arts and Cultural Center</b> is a project proposed by Roger S. Peterson to provide a relaxing venue for the citizens of Rocklin to enjoy all of their cultural interests. With the help of my team, I created this website to give Mr. Peterson a means of proposing his idea to the Rocklin city board and ultimately the people of the city of Rocklin.
   </p>
   
 ## The story behind this project
